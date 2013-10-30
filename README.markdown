@@ -1,4 +1,4 @@
-# Git Essetials (Tutorial) 
+# Git Essetials
 
 You are reading the REAME for this fake project.
 
